@@ -15,13 +15,11 @@
 </picture>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcyIvi&layout=donut)](https://github.com/MarcyIvi/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MarcyIvi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/MarcyIvi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320" />
 </a>
 
 Here are some ideas to get you started:
