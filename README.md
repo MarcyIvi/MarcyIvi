@@ -21,7 +21,8 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 </a>
 </div>
 
-<img <a href="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg"></a>>
+![Gatito IMG](https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg)
+
 <hr>
 <div>
   <picture>
