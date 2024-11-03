@@ -31,7 +31,9 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 </a>  
 <a href="mailto:a.ivna@aluno.ifce.edu.br" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>                              <img src="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg" alt="Gatito Img" width="80" height="80">
+</a>
+
+<img src="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg" alt="Gatito Img" width="80" height="80">
 </div>
 
 
