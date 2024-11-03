@@ -33,12 +33,8 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<img align="right" alt="Gatito Img" width="80" height="80" src="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg" >
+<img align="right" alt="Gatito Img" width="90" height="90" src="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg" >
 </div>
-
-
-  
-
 
 <hr>
 <div>
