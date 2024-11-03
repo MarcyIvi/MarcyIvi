@@ -1,7 +1,7 @@
 ## Oi!!! Me chamo Marcella Ivina
 Sou uma estudante de Técnico em Informática,
 
-- 📖🌱 No momento ando estudando:
+- 📖🌱 No momento ando estudando: <br>
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon">
 
 
