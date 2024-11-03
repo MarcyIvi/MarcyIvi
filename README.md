@@ -1,10 +1,15 @@
 ## Oi!!! Me chamo Marcella Ivina
-Sou uma estudante de Técnico em Informática,
+Sou uma estudante de Técnico em Informática, além de ser uma estudante me considero uma entusiasta do mundo tecnologico e do científico, adoro essa realidade e fico muito curiosa com o que poderá ser desenvolvido no futuro! 
 
 - 📖🌱 No momento ando estudando: <br>
 
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40" alt="CSS Icon">
 
+- 🤩⭐ No que tenho interesse: <br>
+
+※ Inteligência Artificial
+※ Robótica
+※ Full Stack
 
 <hr>
 <div>
@@ -15,17 +20,6 @@ Sou uma estudante de Técnico em Informática,
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320i&show_icons=true&theme=radical" />
 </a>
 </div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <div>
   <picture>
