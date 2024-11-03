@@ -21,12 +21,18 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 </a>
 </div>
 
+<br>
+<div>
 <a href="https://discord.com/invite/marcy_ivi.05" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>  
 <a href="mailto:a.ivna@aluno.ifce.edu.br" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+</div>
+
+
+
 
 <br >
 <div style="text-align: right;">
