@@ -1,7 +1,7 @@
 ## Oi!!! Me chamo Marcella Ivina
 --
 <div>
-<picture pt-br>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MarcyIvia&show_icons=true" />
 </picture>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcyIvi)](https://github.com/MarcyIvi/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
