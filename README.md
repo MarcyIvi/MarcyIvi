@@ -3,8 +3,8 @@
 <div>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=gruvbox"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=merko"
+    media="(prefers-color-scheme: dark)
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MarcyIvia&show_icons=true"
