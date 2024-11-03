@@ -7,9 +7,9 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 
 - 🤩⭐ No que tenho interesse: <br>
 
-※ Inteligência Artificial
-※ Robótica
-※ Full Stack
+※ Inteligência Artificial <br>
+※ Robótica <br>
+※ Full Stack <br>
 
 <hr>
 <div>
