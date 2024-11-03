@@ -35,7 +35,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 
 
 <br >
-<div style="text-align: right;">
+<div align: right;">
   <img src="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg" alt="Gatito Img" width="80" height="80">
 </div>
 
