@@ -3,7 +3,7 @@ Sou uma estudante de Técnico em Informática,
 
 - 📖🌱 No momento ando estudando: <br>
 
-<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon">
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40" alt="Python Icon"> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40" alt="CSS Icon">
 
 
 <hr>
