@@ -1,8 +1,7 @@
 ## Oi!!! Me chamo Marcella Ivina
 --
 <div>
-<picture>
-  <lang: pt-br>
+<picture pt-br>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
