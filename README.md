@@ -1,22 +1,9 @@
 ## Oi!!! Me chamo Marcella Ivina
 --
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarcyIvia&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcyIvia&show_icons=true" />
-  
-</picture>
-</div>
+
 
 <a href="https://github.com/MarcyIvi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/MarcyIvi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320" />
