@@ -14,7 +14,8 @@
 </picture>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcyIvi)](https://github.com/MarcyIvi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcyIvi&hide_progress=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
