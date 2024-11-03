@@ -2,8 +2,7 @@
 Sou uma estudante de Técnico em Informática,
 
 - 📖🌱 No momento ando estudando:
-<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="50" height="50" alt="Java Icon">
-<img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="50" height="50" alt="Python Icon">
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="50" height="50" alt="Java Icon"> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="50" height="50" alt="Python Icon">
 <div>
 <a href="https://github.com/MarcyIvi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
