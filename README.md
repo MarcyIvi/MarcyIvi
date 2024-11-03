@@ -21,6 +21,8 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 </a>
 </div>
 
+![Gatito](![61a889787b31c9ab0996a0d29f586d5a](https://github.com/user-attachments/assets/68f887c2-18b9-4394-b2fc-26dae9b18f55))
+<hr>
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcyIvi/MarcyIvi/output/github-contribution-grid-snake-dark.svg">
