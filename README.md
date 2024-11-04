@@ -26,13 +26,13 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 
 
 <div> 
-   `marcy_ivi.05` ---> <a href="https://discord.com">
+   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a> 
   <a>
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
+Discord: marcy_ivi.05
 <img align="right" alt="Gatito Img" width="100" height="100" src="https://i.pinimg.com/564x/61/a8/89/61a889787b31c9ab0996a0d29f586d5a.jpg" >
 </div>
 
