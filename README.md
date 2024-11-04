@@ -19,7 +19,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 <a href="https://github.com/MarcyIvi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320i&show_icons=true&theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical"></a>
+<a href="https://github.com/MarcyIvi/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcyIvi&theme=radical" alt="Contribuições recentes"</a>
 </div>
 
 <br>
