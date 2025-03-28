@@ -23,9 +23,10 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 
 <div style="display: flex; gap: 20px;">
    
-  <a href="https://github.com/MarcyIvi/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcyIvi&theme=radical" alt="Contribuições recentes">
-  </a>
+ <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=MarcyIvi&theme=radical" alt="Contribuições recentes">
+</a>
+
 
    <a href="https://github.com/MarcyIvi/github-profile-trophy">
         <img height="200" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=3" alt="Troféus do GitHub">
