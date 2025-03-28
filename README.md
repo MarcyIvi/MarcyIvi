@@ -13,13 +13,16 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 
 <hr>
 <div style="display: flex; gap: 20px;">
+  
+  <a href="https://github.com/MarcyIvi/github-profile-trophy">
+        <img height="300" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=3" alt="Troféus do GitHub">
+    </a>
+    
 <a href="https://github.com/MarcyIvi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/MarcyIvi/github-profile-trophy">
-        <img height="300" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=3" alt="Troféus do GitHub">
-    </a>
+
 </div>
 
 
