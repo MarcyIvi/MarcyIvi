@@ -40,7 +40,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
    <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a> 
-  <a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMVxdjHrczJRPhvLpslhrRPTTqmlMQFFnwvVvCjGlFcfWgWGLVKDfsQRhfxhgTXqCVlvPdL">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 <br> Discord: marcy_ivi.05
