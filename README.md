@@ -12,7 +12,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 ※ Full Stack <br>
 
 <hr>
-<div style="display: flex; gap: 20px;">
+<div>
   
   <a href="https://github.com/MarcyIvi/github-profile-trophy">
     <img height="250" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=3" alt="Troféus do GitHub">
