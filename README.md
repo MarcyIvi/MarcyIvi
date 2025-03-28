@@ -12,34 +12,33 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 ※ Full Stack <br>
 
 <hr>
-<div style="width: 100%; text-align: center;">
-  <!-- Linha superior - Stats e Top Langs -->
-  <table style="margin: 0 auto; border-collapse: collapse;">
-    <tr>
-   <!-- Stats Card -->
-      <td style="padding: 10px;">
-        <a href="https://github.com/MarcyIvi/github-readme-stats">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
-        </a>
-      </td>
-      
-  <!-- Top Languages -->
-  <td style="padding: 10px;">
-        <a href="https://github.com/MarcyIvi/convoychat">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="width: 100%; text-align: center; font-size: 0;">
+  <!-- Container principal sem espaçamento -->
+  
+  <!-- Primeira Linha: Stats + Top Langs -->
+  <div style="display: inline-block; margin: 0; padding: 0;">
+    <!-- Stats Card -->
+    <div style="display: inline-block; vertical-align: top; margin: 0 5px;">
+      <a href="https://github.com/MarcyIvi/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" style="display: block;"/>
+      </a>
+    </div>
+    
+    <!-- Top Languages -->
+  <div style="display: inline-block; vertical-align: top; margin: 0 5px;">
+      <a href="https://github.com/MarcyIvi/convoychat">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical" style="display: block;"/>
+      </a>
+    </div>
+  </div>
 
-  <!-- Linha inferior - Troféus -->
-  <div style="margin-top: 20px;">
+  <!-- Segunda Linha: Troféus -->
+  <div style="width: 100%; margin: 10px auto 0; text-align: center;">
     <a href="https://github.com/MarcyIvi/github-profile-trophy">
-      <img height="150" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=6&margin-w=5&margin-h=5" style="display: block; margin: 0 auto;"/>
+      <img height="120" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=7&margin-w=2&no-frame=true" style="display: inline-block;"/>
     </a>
   </div>
 </div>
-  
  
 
 <br>
