@@ -32,7 +32,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
   </table>
 
   <!-- Linha Inferior -->
-  <img height="200px" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=7&margin-w=5&margin-h=6"/>
+  <img height="200px" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=7&margin-w=6&margin-h=6"/>
 </div>
  
 
