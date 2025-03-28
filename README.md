@@ -13,27 +13,31 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 
 <hr>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 100%; padding: 20px;">
-  <!-- Linha com Stats e Top Languages -->
-  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; flex-wrap: wrap;">
-  <!-- Stats Card -->
-  <a href="https://github.com/MarcyIvi/github-readme-stats">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
-    </a>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 100%; padding: 20px; box-sizing: border-box;">
+  <!-- Linha com Stats e Top Languages - Container ajustado -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; flex-wrap: wrap;">
+    <!-- Stats Card -->
+    <div style="flex: 0 0 auto;">
+      <a href="https://github.com/MarcyIvi/github-readme-stats">
+        <img height="200" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
+      </a>
+    </div>
     
   <!-- Top Languages -->
-  <a href="https://github.com/MarcyIvi/convoychat">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
-    </>
-    
-    
+  <div style="flex: 0 0 auto;">
+      <a href="https://github.com/MarcyIvi/convoychat">
+        <img height="200" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
+      </a>
+    </div>
   </div>
 
-  <!-- Troféus (menores e centralizados) -->
-  <div style="width: 100%; display: flex; justify-content: center;">
-    <a href="https://github.com/MarcyIvi/github-profile-trophy">
-      <img height="200" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub">
-    </a>
+  <!-- Troféus - Container ajustado -->
+  <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 0 0 auto;">
+      <a href="https://github.com/MarcyIvi/github-profile-trophy">
+        <img height="150" style="display: block;" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub">
+      </a>
+    </div>
   </div>
 </div>
   
