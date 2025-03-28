@@ -12,7 +12,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 ※ Full Stack <br>
 
 <hr>
-<div>
+<div style="display: flex; gap: 20px;">
 <a href="https://github.com/MarcyIvi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
 </a>
@@ -26,9 +26,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 </a>
 </div>
 
-<div style="display: flex; gap: 20px;">
-   
-</div>
+
 
 <br>
 
