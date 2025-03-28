@@ -17,14 +17,15 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
   <!-- Linha com Stats e Top Languages -->
   <div style="display: flex; justify-content: center; gap: 20px; width: 100%; flex-wrap: wrap;">
     <!-- Stats Card -->
-    <a href="https://github.com/MarcyIvi/github-readme-stats">
+  <a href="https://github.com/MarcyIvi/github-readme-stats">
       <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
     </a>
     
-    <!-- Top Languages-->
-    <a href="https://github.com/MarcyIvi/convoychat">
+    <!-- Top Languages -->
+  <a href="https://github.com/MarcyIvi/convoychat">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
-    </a>
+    </>
+    
     
   </div>
 
