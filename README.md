@@ -19,14 +19,14 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
     <!-- Stats Card -->
     <div style="flex: 0 0 auto;">
       <a href="https://github.com/MarcyIvi/github-readme-stats">
-        <img height="200" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
+        <img height="180" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
       </a>
     </div>
     
   <!-- Top Languages -->
   <div style="flex: 0 0 auto;">
       <a href="https://github.com/MarcyIvi/convoychat">
-        <img height="200" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
+        <img height="180" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical"/>
       </a>
     </div>
   </div>
