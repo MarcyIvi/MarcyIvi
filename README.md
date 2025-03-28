@@ -12,7 +12,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 ※ Full Stack <br>
 
 <hr>
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; text-align: center;">
   <a href="https://github.com/MarcyIvi/github-readme-stats">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
   </a>
@@ -25,6 +25,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
     <img height="250" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=3" alt="Troféus do GitHub">
   </a>
 </div>
+
 
 
 
