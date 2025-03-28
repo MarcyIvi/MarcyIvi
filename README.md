@@ -12,18 +12,27 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
 ※ Full Stack <br>
 
 <hr>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; height: 100vh;">
-  <a href="https://github.com/MarcyIvi/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; width: 100%; padding: 20px;">
+  <!-- Stats Card -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <a href="https://github.com/MarcyIvi/github-readme-stats">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcyIvi&show_icons=true&theme=radical" style="width: 100%; height: auto;" />
+    </a>
+  </div>
   
-  <a href="https://github.com/MarcyIvi/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-  </a>
+  <!-- Top Languages -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <a href="https://github.com/MarcyIvi/convoychat">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical" style="width: 100%; height: auto;" />
+    </a>
+  </div>
 
-  <a href="https://github.com/MarcyIvi/github-profile-trophy">
-    <img height="250" src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=3" alt="Troféus do GitHub">
-  </a>
+  <!-- Trophies -->
+  <div style="flex: 1; min-width: 300px; max-width: 600px;">
+    <a href="https://github.com/MarcyIvi/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=MarcyIvi&theme=radical&column=3" style="width: 100%; height: auto;" alt="Troféus do GitHub">
+    </a>
+  </div>
 </div>
 
 <br>
