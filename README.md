@@ -24,7 +24,7 @@ Sou uma estudante de Técnico em Informática, além de ser uma estudante me con
       </a>
     </div>
     
-    <!-- Top Languages -->
+  <!-- Top Languages -->
   <div style="display: inline-block; vertical-align: top; margin: 0 5px;">
       <a href="https://github.com/MarcyIvi/convoychat">
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcyIvi&layout=donut&langs_count=8&card_width=320&show_icons=true&theme=radical" style="display: block;"/>
